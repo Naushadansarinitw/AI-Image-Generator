@@ -16,6 +16,7 @@ An AI image generating app built with MERN stack, and utilizes third party API's
     3. Mongoose schemas to model the application data
     4. React for displaying UI components
     5. ContextAPI to manage application's state
+    6. Tailwind CSS For Designing.
 
 ## Install
 
